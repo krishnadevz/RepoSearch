@@ -6,8 +6,8 @@
 * axios
 and lastly nodejs and reactjs installed in your system
 
-* Live Preview Link
-* 
+* Live Preview Link [Live Preview Link](https://reposearche.herokuapp.com) i crossed the build limits so soon after i will deploy it to netlify 
+
 
 
 
